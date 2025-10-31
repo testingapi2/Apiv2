@@ -6,12 +6,12 @@
   },
   {
     "nama": "Another Movie",
-    "Image": "https://i.imgur.com/example2.jpg",
+    "Image": "https://raw.githubusercontent.com/testingapi2/Apiv2/refs/heads/main/Images/IMG_20251101_035023.jpg",
     "url": "https://example.com/watch2"
   },
   {
     "nama": "Movie 3",
-    "Image": "https://i.imgur.com/example3.jpg",
+    "Image": "https://raw.githubusercontent.com/testingapi2/Apiv2/refs/heads/main/Images/IMG_20251101_035023.jpg",
     "url": "https://example.com/watch3"
   }
 ]
