@@ -7,11 +7,11 @@
   {
     "nama": "Another Movie",
     "Image": "https://raw.githubusercontent.com/testingapi2/Apiv2/refs/heads/main/Images/IMG_20251101_035023.jpg",
-    "url": "https://example.com/watch2"
+    "url": "https://ik.imagekit.io/crsoqblgd1/1000038430_480x854.mp4?updatedAt=1761707607955"
   },
   {
     "nama": "Movie 3",
     "Image": "https://raw.githubusercontent.com/testingapi2/Apiv2/refs/heads/main/Images/IMG_20251101_035023.jpg",
-    "url": "https://example.com/watch3"
+    "url": "https://ik.imagekit.io/crsoqblgd1/1000038430_480x854.mp4?updatedAt=1761707607955"
   }
 ]
